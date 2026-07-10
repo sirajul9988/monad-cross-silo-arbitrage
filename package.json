@@ -1,0 +1,10 @@
+{
+  "name": "monad-cross-silo-arbitrage",
+  "version": "1.0.0",
+  "description": "High-velocity parallelized cross-silo flash arbitrage routing system for Monad",
+  "main": "simulateCrossSiloArbitrage.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
